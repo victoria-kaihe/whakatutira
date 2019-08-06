@@ -1,15 +1,21 @@
 module.exports = [
 
   {
-    kupuMaori: 'tari kāwanatanga',
+    kupuMāori: 'tari kāwanatanga',
     kupuEnglish: 'public service',
-    contextMaori: 'Kei te tari kāwanatanga au e mahi ana.',
+    contextMāori: 'Kei te tari kāwanatanga au e mahi ana.',
     contextEnglish: 'I work in the public service.'
   },
   {
-    kupuMaori: 'ipurangi',
+    kupuMāori: 'ipurangi',
     kupuEnglish: 'internet',
-    contextMaori: 'Kua tuwhera te ao Māori ki te ipurangi.',
+    contextMāori: 'Kua tuwhera te ao Māori ki te ipurangi.',
+    contextEnglish: 'The Māori world has embraced the internet.'
+  },
+  {
+    kupuMāori: 'ipurangi',
+    kupuEnglish: 'internet',
+    contextMāori: 'Kua tuwhera te ao Māori ki te ipurangi.',
     contextEnglish: 'The Māori world has embraced the internet.'
   }
 
