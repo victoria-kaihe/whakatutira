@@ -61,6 +61,60 @@ module.exports = [
     contextEnglish: 'I\'ll take a look at my calendar.'
   },
   {
+    kupuMāori: 'ringa rehe',
+    kupuEnglish: 'professional',
+    contextMāori: 'Kua roa nei ia e mahi ana hei ringa rehe i hoahoanga.',
+    contextEnglish: 'She has been working as an architect for a long time.'
+  },
+  {
+    kupuMāori: 'whakawhanake',
+    kupuEnglish: 'development',
+    contextMāori: 'Kua rite au mo tāku whakawhanake ngaio.',
+    contextEnglish: 'I\'m ready for my professional development.'
+  },
+  {
+    kupuMāori: '',
+    kupuEnglish: '',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
+    kupuMāori: '',
+    kupuEnglish: '',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
+    kupuMāori: '',
+    kupuEnglish: '',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
+    kupuMāori: '',
+    kupuEnglish: '',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
+    kupuMāori: '',
+    kupuEnglish: '',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
+    kupuMāori: '',
+    kupuEnglish: '',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
+    kupuMāori: '',
+    kupuEnglish: '',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
     kupuMāori: '',
     kupuEnglish: '',
     contextMāori: '',
