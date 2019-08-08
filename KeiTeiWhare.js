@@ -96,10 +96,10 @@ module.exports = [
     contextEnglish: 'I\'ll peel the potatoes.'
   },
   {
-    kupuMāori: '',
-    kupuEnglish: '',
-    contextMāori: '',
-    contextEnglish: ''
+    kupuMāori: 'hangarua',
+    kupuEnglish: 'recycling',
+    contextMāori: 'Tangohia te hangarua ki waho.',
+    contextEnglish: 'Take the recycling outside.'
   },
   {
     kupuMāori: '',
