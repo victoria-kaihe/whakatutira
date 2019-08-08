@@ -20,8 +20,8 @@ module.exports = [
   {
     kupuMāori: 'ngote puehu',
     kupuEnglish: 'vacuum',
-    contextMāori: '',
-    contextEnglish: ''
+    contextMāori: 'Kei hea te ngote puehu?',
+    contextEnglish: 'Where is the vacuum cleaner?'
   },
   {
     kupuMāori: 'peke e taea te whakamahi',
@@ -44,8 +44,8 @@ module.exports = [
   {
     kupuMāori: 'huarahi',
     kupuEnglish: 'street',
-    contextMāori: '',
-    contextEnglish: ''
+    contextMāori: 'Kaua e tākaro ki te huarahi!',
+    contextEnglish: 'Don\'t play in the street!'
   },
   {
     kupuMāori: 'ārai',
@@ -56,8 +56,8 @@ module.exports = [
   {
     kupuMāori: 'rūma moe',
     kupuEnglish: 'bedroom',
-    contextMāori: '',
-    contextEnglish: ''
+    contextMāori: 'Kua haere au ki tāku rūma moe.',
+    contextEnglish: 'I\'m going to my room.'
   },
   {
     kupuMāori: 'wharepaku',
@@ -74,26 +74,26 @@ module.exports = [
   {
     kupuMāori: 'kāinga',
     kupuEnglish: 'home',
-    contextMāori: '',
-    contextEnglish: ''
+    contextMāori: 'Nau mai ki tōku kāinga!',
+    contextEnglish: 'Welcome to my home!'
   },
   {
-    kupuMāori: '',
-    kupuEnglish: '',
-    contextMāori: '',
-    contextEnglish: ''
+    kupuMāori: 'wharau',
+    kupuEnglish: 'shed',
+    contextMāori: 'Kei roto i te wharau te pōtarotaro.',
+    contextEnglish: 'The lawnmower is in the shed.'
   },
   {
-    kupuMāori: '',
-    kupuEnglish: '',
-    contextMāori: '',
-    contextEnglish: ''
+    kupuMāori: 'pātītī',
+    kupuEnglish: 'lawn',
+    contextMāori: 'Māku te pātītī e pōtarotaro.',
+    contextEnglish: 'I\'ll mow the lawn.'
   },
   {
-    kupuMāori: '',
-    kupuEnglish: '',
-    contextMāori: '',
-    contextEnglish: ''
+    kupuMāori: 'waruwaru',
+    kupuEnglish: 'peel',
+    contextMāori: 'Māku e waruwaru ngā rīwai.',
+    contextEnglish: 'I\'ll peel the potatoes.'
   },
   {
     kupuMāori: '',
