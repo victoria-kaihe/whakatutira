@@ -4,18 +4,18 @@ module.exports = [
     kīwahaEnglish: 'See you later!'
   },
   {
-    kīwahaMāori: '',
-    kīwahaEnglish: ''
+    kīwahaMāori: 'Kua puta a pito!',
+    kīwahaEnglish: 'I\'m so full!',
   },
   {
-    kīwahaMāori: '',
-    kīwahaEnglish: ''
+    kīwahaMāori: 'Ko tāua tēnā?',
+    kīwahaEnglish: 'Is that us?'
   },{
-    kīwahaMāori: '',
-    kīwahaEnglish: ''
+    kīwahaMāori: 'Kei Mahurangi kē koe!',
+    kīwahaEnglish: 'You\'re dreaming!'
   },{
-    kīwahaMāori: '',
-    kīwahaEnglish: ''
+    kīwahaMāori: 'Mā hea mai ki tēnā.',
+    kīwahaEnglish: 'It\'s the thought that counts.'
   },{
     kīwahaMāori: '',
     kīwahaEnglish: ''
