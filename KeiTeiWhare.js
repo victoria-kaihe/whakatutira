@@ -102,10 +102,10 @@ module.exports = [
     contextEnglish: 'Take the recycling outside.'
   },
   {
-    kupuMāori: '',
-    kupuEnglish: '',
-    contextMāori: '',
-    contextEnglish: ''
+    kupuMāori: 'onepōpopo',
+    kupuEnglish: 'compost',
+    contextMāori: 'Ko te onepōpopo ka horahia atu ki te māra hei whakamōmona i te oneone.',
+    contextEnglish: 'Compost is spread on the garden to enrich the soil.'
   },
   {
     kupuMāori: '',
