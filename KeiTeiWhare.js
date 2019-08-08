@@ -2,7 +2,7 @@ module.exports = [
   {
     kupuMāori: 'horoi',
     kupuEnglish: 'wash',
-    contextMāori: 'Horoi tō ringaringa.',
+    contextMāori: 'Horoi ō ringaringa.',
     contextEnglish: 'Wash your hands.'
   },
   {
@@ -12,7 +12,7 @@ module.exports = [
     contextEnglish: 'Make yourself comfortable in the living room.'
   },
   {
-    kupuMāori: 'mahi māra',
+    kupuMāori: 'māra',
     kupuEnglish: 'garden',
     contextMāori: 'Kei te mahi ia ki te māra.',
     contextEnglish: 'He is working in the garden.'
