@@ -54,9 +54,69 @@ module.exports = [
     contextEnglish: 'Close the curtains.'
   },
   {
+    kupuMāori: 'rūma moe',
+    kupuEnglish: 'bedroom',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
+    kupuMāori: 'wharepaku',
+    kupuEnglish: 'toilet',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
+    kupuMāori: 'pouaka makariri',
+    kupuEnglish: 'fridge',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
+    kupuMāori: 'kāinga',
+    kupuEnglish: 'home',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
     kupuMāori: '',
     kupuEnglish: '',
     contextMāori: '',
     contextEnglish: ''
   },
+  {
+    kupuMāori: '',
+    kupuEnglish: '',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
+    kupuMāori: '',
+    kupuEnglish: '',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
+    kupuMāori: '',
+    kupuEnglish: '',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
+    kupuMāori: '',
+    kupuEnglish: '',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
+    kupuMāori: '',
+    kupuEnglish: '',
+    contextMāori: '',
+    contextEnglish: ''
+  },
+  {
+    kupuMāori: '',
+    kupuEnglish: '',
+    contextMāori: '',
+    contextEnglish: ''
+  }
 ]
