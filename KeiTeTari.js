@@ -73,16 +73,16 @@ module.exports = [
     contextEnglish: 'I\'m ready for my professional development.'
   },
   {
-    kupuMāori: '',
-    kupuEnglish: '',
-    contextMāori: '',
-    contextEnglish: ''
+    kupuMāori: 'kaiwhakahaere',
+    kupuEnglish: 'manager',
+    contextMāori: 'Kei te hiahia au ki te kōrero ki tētahi kaiwhakahaere.',
+    contextEnglish: 'I want to speak to a manager.'
   },
   {
-    kupuMāori: '',
-    kupuEnglish: '',
-    contextMāori: '',
-    contextEnglish: ''
+    kupuMāori: 'pūrere whakaahua',
+    kupuEnglish: 'photocopier',
+    contextMāori: 'Kaua e noho ki te pūrere whakaahua.',
+    contextEnglish: 'Don\'t sit on the photocopier.'
   },
   {
     kupuMāori: '',

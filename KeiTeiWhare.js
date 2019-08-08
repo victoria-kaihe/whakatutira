@@ -32,14 +32,14 @@ module.exports = [
   {
     kupuMāori: 'kāuta',
     kupuEnglish: 'kitchen',
-    contextMāori: '',
-    contextEnglish: ''
+    contextMāori: 'Ko te kāuta ko tāku tino pai ki roto i te whare.',
+    contextEnglish: 'The kitchen is my favourite room in the house.'
   },
   {
     kupuMāori: 'pouaka whakaata',
     kupuEnglish: 'television',
-    contextMāori: '',
-    contextEnglish: ''
+    contextMāori: 'Ka noho pōwhiwhiwhiwhi katoa ngā taura hiko i muri i te pouaka whakaata.',
+    contextEnglish: 'The electric cords behind the television were all tangled.'
   },
   {
     kupuMāori: 'huarahi',
