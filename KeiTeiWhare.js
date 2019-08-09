@@ -108,15 +108,15 @@ module.exports = [
     contextEnglish: 'Compost is spread on the garden to enrich the soil.'
   },
   {
-    kupuMāori: '',
-    kupuEnglish: '',
-    contextMāori: '',
-    contextEnglish: ''
+    kupuMāori: 'karāti',
+    kupuEnglish: 'garage',
+    contextMāori: 'I hangaia e pāpā he toa mahi i muri i te karāti.',
+    contextEnglish: 'Dad duilt a workshop at the back of the garage.'
   },
   {
-    kupuMāori: '',
-    kupuEnglish: '',
-    contextMāori: '',
-    contextEnglish: ''
+    kupuMāori: 'rauiri(a)',
+    kupuEnglish: 'tidy up',
+    contextMāori: 'Rauiria tō rūma moe!',
+    contextEnglish: 'Tidy up your bedroom!'
   }
 ]
