@@ -91,10 +91,10 @@ module.exports = [
     contextEnglish: 'Kiri and Nikau will do the interviews.'
   },
   {
-    kupuMāori: '',
-    kupuEnglish: '',
-    contextMāori: '',
-    contextEnglish: ''
+    kupuMāori: 'pānga tuhituhi',
+    kupuEnglish: 'stationery',
+    contextMāori: 'Māku e tonoa te pānga tuhituhi hou.',
+    contextEnglish: 'I\'ll order the new stationary.'
   },
   {
     kupuMāori: '',
