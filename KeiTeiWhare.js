@@ -68,8 +68,8 @@ module.exports = [
   {
     kupuMāori: 'pouaka makariri',
     kupuEnglish: 'fridge',
-    contextMāori: '',
-    contextEnglish: ''
+    contextMāori: 'Ki roto i te pouaka makariri te miraka.',
+    contextEnglish: 'The milk is in the fridge.'
   },
   {
     kupuMāori: 'kāinga',
