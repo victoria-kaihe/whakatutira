@@ -97,28 +97,28 @@ module.exports = [
     contextEnglish: 'I\'ll order the new stationary.'
   },
   {
-    kupuMāori: '',
-    kupuEnglish: '',
-    contextMāori: '',
-    contextEnglish: ''
+    kupuMāori: 'pātengi raraunga',
+    kupuEnglish: 'database',
+    contextMāori: 'He pātengi raraunga te rauemi e kōrerohia nei.',
+    contextEnglish: 'The resource being discussed is a database.'
   },
   {
-    kupuMāori: '',
-    kupuEnglish: '',
-    contextMāori: '',
-    contextEnglish: ''
+    kupuMāori: 'tikiake',
+    kupuEnglish: 'download',
+    contextMāori: 'Ka taea te tikiake tētahi kōnae matihiko hei whāwhā māu i tō rorohiko.',
+    contextEnglish: 'A digital file can be downloaded for you to edit on your computer.'
   },
   {
-    kupuMāori: '',
-    kupuEnglish: '',
-    contextMāori: '',
-    contextEnglish: ''
+    kupuMāori: 'pukapuka',
+    kupuEnglish: 'documents',
+    contextMāori: 'Homai ēnā pukapuka?',
+    contextEnglish: 'Could you pass me those documents?'
   },
   {
-    kupuMāori: '',
-    kupuEnglish: '',
-    contextMāori: '',
-    contextEnglish: ''
+    kupuMāori: 'tahua',
+    kupuEnglish: 'budget',
+    contextMāori: 'E kore e ō ki te tahua.',
+    contextEnglish: 'It doesn\'t fit in the budget.'
   }
 
   ]
