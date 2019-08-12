@@ -28,7 +28,7 @@ module.exports = [
     kīwahaEnglish: 'Simmer down...'
   },
   {
-    kīwahaMāori: 'I waihotia atu ō taringa ki ti kainga?',
+    kīwahaMāori: 'I waihotia atu ō taringa ki te kāinga?',
     kīwahaEnglish: 'Did you leave your ears at home?'
   },
   {
